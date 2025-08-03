@@ -1,0 +1,65 @@
+Iridescent loading started...
+Loading Bypass #1... | 0.0011267662048339844
+Bypass #1 Loaded. | 0.033396244049072266
+Loading Bypass #2... | 0.03403162956237793
+Loaded Bypass #2.. | 0.057402610778808594
+All bypassed loaded! | 0.4594869613647461
+Failed to request image: Salvaged AK47 | 0.47165560722351074
+Failed to request image: Salvaged SMG | 0.5789291858673096
+Failed to request image: Salvaged M14 | 0.6843180656433105
+Failed to request image: Salvaged Nailgun | 0.7923173904418945
+Failed to request image: Salvaged AK74u | 0.8988387584686279
+Failed to request image: Wooden Bow | 1.00396728515625
+Failed to request image: Salvaged Python | 1.1166188716888428
+Failed to request image: Salvaged Sniper | 1.225562572479248
+Failed to request image: Military M4A1 | 1.3335587978363037
+Failed to request image: Bruno's M4A1 | 1.4415199756622314
+Failed to request image: Military USP | 1.5488672256469727
+Failed to request image: Salvaged Pump Action | 1.6587634086608887
+Failed to request image: Military Barrett | 1.7670414447784424
+Failed to request image: Salvaged Break Action | 1.8751065731048584
+Failed to request image: Salvaged Pipe Rifle | 1.9842631816864014
+Failed to request image: Salvaged Double Barrel | 2.0905590057373047
+Failed to request image: Salvaged Shotgun | 2.199702024459839
+Failed to request image: Pumpkin Launcher | 2.308389663696289
+Failed to request image: Salvaged RPG | 2.415926694869995
+Failed to request image: Iron Shard Pickaxe | 2.52394437789917
+Failed to request image: Iron Shard Hatchet | 2.6291801929473877
+Failed to request image: Stone Hatchet | 2.7378156185150146
+Failed to request image: Stone Pickaxe | 2.8457813262939453
+Failed to request image: Steel Axe | 2.9553401470184326
+Failed to request image: Steel Pickaxe | 3.0616581439971924
+Failed to request image: Wooden Spear | 3.171534776687622
+Failed to request image: Stone Spear | 3.2795162200927734
+Failed to request image: Small Medkit | 3.3870298862457275
+Failed to request image: Military Grenade | 3.4969778060913086
+Failed to request image: Military Grenade Launcher | 3.6075992584228516
+Failed to request image: Mining Drill | 3.7119226455688477
+Failed to request image: Salvaged P250 | 3.820577383041382
+Loaded images and fonts | 3.9240009784698486
+Initializing tables | 3.9247357845306396
+Initialized trial mod list | 3.9250574111938477
+Initialized Library tables | 3.9328773021698
+Initialized theme | 3.9335081577301025
+Initialized thread table | 3.9337871074676514
+Initialized EntityClass object | 3.941901206970215
+Initialized tables | 3.942185163497925
+Loaded folders.. | 3.944152593612671
+Loaded globals library | 3.9453775882720947
+Loaded UI library. | 3.9460017681121826
+Loaded threads library. | 3.9462785720825195
+Loaded math library. | 3.9465551376342773
+Loaded visuals library. | 3.94968318939209
+Loaded EntityClass Global library. | 3.950099468231201
+Loaded EntityClass main library. | 3.950946092605591
+Loaded EntityClass Misc library. | 3.95123291015625
+Successfully setup UI | 6.886608362197876
+Loaded Connenctions. | 6.915689468383789
+Loaded threads. | 6.916252851486206
+Loaded run service connections | 6.916503429412842
+Initialized projectiles. | 6.916858673095703
+Initialized raids | 6.9170920848846436
+Initialized raycast | 6.91730809211731
+Initialized sounds | 6.917530536651611
+Primary hooks initialized! | 6.917736053466797
+All hooks loaded! | 6.954961061477661
